@@ -15,7 +15,8 @@
 | 2025-08-05 | 多线程与并发     | 使用多线程的方法     | ✅ 已完成 |
 | 2025-12-30 | 宏定义  | 宏的种类，过程宏的实现                 | ✅ 已完成 |
 | 2026-01-03 | futnre  | simple future的实现                 | ✅ 已完成 |
-| 2025-08 | Web 服务器  | 使用多线程+异步的服务器                 | ⏳ 进行中 |
+| 2026-01 | Web 服务器  | 使用多线程+异步的服务器                 | ✅ 已完成 |
+| 2026-01 | Redis | 使用多线程+异步的Redis                 | ✅ 已完成 |
 
 ## ✅ 学习任务勾选清单
 
@@ -26,8 +27,9 @@
 - [x] [智能指针](https://course.rs/advance/smart-pointer/intro.html)
 - [x] [循环引用与自引用](https://course.rs/advance/circle-self-ref/intro.html)
 - [x] [多线程与并发编程](https://course.rs/advance/concurrency-with-threads/intro.html)
-- [ ] 编写 Web 服务器
-- [ ] 实现一个简单的Redis
+- [x] 实现一个简单的Redis
+- [x] 编写 Web 服务器
+- [ ] 实现链表
 - [ ] 桌面小程序-视频中的音频提取
 
 ## 📚 学习资源

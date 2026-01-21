@@ -1,0 +1,12 @@
+E:\dev\Rusty\my-redis\target\debug\deps\proc_macro_error-1944495000268dc5.d: D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\lib.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\dummy.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\diagnostic.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\macros.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\sealed.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\imp\fallback.rs
+
+E:\dev\Rusty\my-redis\target\debug\deps\libproc_macro_error-1944495000268dc5.rlib: D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\lib.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\dummy.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\diagnostic.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\macros.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\sealed.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\imp\fallback.rs
+
+E:\dev\Rusty\my-redis\target\debug\deps\libproc_macro_error-1944495000268dc5.rmeta: D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\lib.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\dummy.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\diagnostic.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\macros.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\sealed.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\imp\fallback.rs
+
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\dummy.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\diagnostic.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\macros.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\sealed.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro-error-1.0.4\src\imp\fallback.rs:

@@ -1,0 +1,13 @@
+E:\dev\Rusty\my-redis\target\debug\deps\ansi_term-f63e80ae578ae90f.d: D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\lib.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\ansi.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\style.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\difference.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\display.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\write.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\windows.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\util.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\debug.rs
+
+E:\dev\Rusty\my-redis\target\debug\deps\libansi_term-f63e80ae578ae90f.rmeta: D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\lib.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\ansi.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\style.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\difference.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\display.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\write.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\windows.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\util.rs D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\debug.rs
+
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\ansi.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\style.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\difference.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\display.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\write.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\windows.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\util.rs:
+D:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\debug.rs:
